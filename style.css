@@ -1,0 +1,43 @@
+html, body {
+  color: white;
+    background-color: black;
+  margin: 1px;
+  margin-bottom: 30px;
+  font-family:  "Dongle", sans-serif;
+}
+
+.inicio{
+  background: rgb(6,6,105);
+  margin: 20px;
+  padding: 20px;
+  display: flex;
+  font-size: 30px;
+}
+
+header{
+  font-family: "Danfo", sans-serif;
+  color: white;
+  display: flex;
+  position: relative;
+  margin: 20px;
+  padding: 0px;
+  font-size: 80px;
+  border-bottom: solid 2px white
+}
+
+p{
+  text-align: justify;
+}
+
+.video{
+  margin-right: 50px;
+  align-items: center;
+}
+
+header img{
+  width: 200px;
+  height: 170px;
+  margin-left: 200px;
+}
+
+
